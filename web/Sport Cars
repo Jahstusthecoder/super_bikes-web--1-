@@ -1,0 +1,214 @@
+<!--
+Au<!--
+Author: W3layouts
+Author URL: http://w3layouts.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+-->
+<!DOCTYPE HTML>
+<html>
+<head>
+<title>Super Bikes a Autos & Transportation Category Flat Bootstrap Responsive website Template | Services :: w3layouts</title>
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Super Bikes  Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template,
+Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, SonyErricsson, Motorola web design" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<link href='//fonts.googleapis.com/css?family=Open+Sans:400,800italic,800,700italic,700,600italic,600,400italic,300italic,300' rel='stylesheet' type='text/css'>
+<script src="js/jquery-1.11.1.min.js"></script>
+<link rel="stylesheet" href="css/flexslider.css" type="text/css" media="screen" />
+<script src="js/bootstrap.js"></script>
+</head>
+<body>
+	<!--start-header-section-->
+	<div class="header">
+		<div class="container">
+				<div class="header-top">
+					<div class="logo">
+						<h1><a href="index.html">Sport Cars</a></h1>
+					</div>
+					<div class="phone">
+						<h5><span class="glyphicon glyphicon-phone" aria-hidden="true"></span>  </h5>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			<div class="header-bottom">
+				<nav class="navbar navbar-default">
+					<div class="container-fluid">
+				<!-- Brand and toggle get grouped for better mobile display -->
+					<div class="navbar-header">
+						<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+							<span class="sr-only">Toggle navigation</span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+							<span class="icon-bar"></span>
+						</button>
+					</div>
+        <!-- Collect the nav links, forms, and other content for toggling -->
+						<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+						  <ul class="nav navbar-nav cl-effect-16">
+							<li><a href="index.html">Home <span class="sr-only">(current)</span></a></li>
+							<li><a href="about.html">About</a></li>
+							 <li class="dropdown active">
+							  <a href="services.html" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Services<span class="caret"></span></a>
+							  <ul class="dropdown-menu">
+								 <li><a href="services.html">Services1</a></li>
+								<li><a href="services.html">Services2</a></li>
+								<li><a href="services.html">Services3</a></li>
+							  </ul>
+							</li>
+								<li><a href="gallery.html">Gallery</a></li>
+								<li><a href="codes.html">Codes</a></li>
+								<li><a href="contact.html">Contact</a></li>
+							</ul>
+						</div><!-- /.navbar-collapse -->
+					</div><!-- /.container-fluid -->
+				</nav>
+			</div>
+		</div>
+	</div>
+		<!--end header-section-->
+			<div class="header-banner">
+				<div class="container">
+					<h2>Intro</h2>
+				</div>
+			</div>
+		<!--end header-section-->
+			<!--services-->
+			<div class="content">
+				<div class="services">
+					<div class="container">
+						<div class="service-grids">
+							<div class="col-md-4 service-grid">
+								<img src="http://o.aolcdn.com/dims-global/dims3/GLOB/legacy_thumbnail/750x422/quality/95/https://s.blogcdn.com/slideshows/images/slides/498/197/6/S4981976/slug/l/q-by-aston-martin-vanquish-s-red-arrows-edition-01-jpg-1.jpg" class="img-responsive" alt=""/>
+								<h5>Aston Martin Vanquish</h5>
+								<p>Vanquish is equipped with the AM29 V12 engine – the most powerful GT production engine in Aston Martin history. 568 bhp of power. 201 mph top speed. 0-60mph in just 3.6 secs. Vanquish has the greatest performance numbers ever reached in an Aston Martin, it’s not a Grand Tourer, it’s a Super Grand Tourer.</p>
+							</div>
+							<div class="col-md-4 service-grid">
+							<img src="http://wallpapercave.com/wp/oKjjWVH.jpg" class="img-responsive" alt=""/>
+								<h5>lamborghini aventador</h5>
+								<p>The 2013 Aventador LP 700-4 Roadster was announced for production on 27 December 2012, equipped with the same V12 engine as the coupé version, Lamborghini claims again that it can reach 97 km/h (60 mph) in less than 3 seconds and a top speed of more than 350 km/h (217 mph).</p>
+							</div>
+							<div class="col-md-4 service-grid">
+							<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkrCbunzqJ5DAWyWJuyb1XJQAJ4plKSJFIhVTHft5mVEayqoyuCQ" class="img-responsive" alt=""/>
+								<h5>Bugatti veyron<h5>
+								<p> The Bugatti Veyron EB 16.4 is a mid-engined sports car, designed and developed in Germany by the Volkswagen Group and manufactured in Molsheim, France, by Bugatti Automobiles S.A.S., named after the racing driver Pierre Veyron. The original version has a top speed of 407 km/h (253 mph).</p>
+							</div>
+
+							<div class="clearfix"></div>
+						</div>
+						<div class="service-grids1">
+							<div class="col-md-4 service-grid">
+								<img src="data:image/jpeg;base64,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" class="img-responsive" alt=""/>
+								<h4>2017 Acura NSX</h4>
+								<p>Everything. It’s been a decade since production of the original NSX ended. Although that car made due with a naturally aspirated 3.0-liter VTEC V-6, the all-new Acura NSX features a bespoke twin-turbo V-6 and three electric motors. The new NSX rides on an aluminum-intensive space frame with carbon fiber floor with a body designed to direct airflow over, under, and through the car including cooling duties.</p>
+							</div>
+							<div class="col-md-4 service-grid">
+							<img src="http://sportscarsfans.com/mb/slk55amg09_w308.jpg" class="img-responsive" alt=""/>
+								<h4>2009 Mercedes-Benz SLK 55 AMG</h4>
+								<p>We know that AMG, the high-performance wing at Mercedes-Benz, has a pretty good handle on engine tweaking—just look at its spring catalog. AMG offers up 14 models, each packing no fewer than eight cylinders and outputs ranging from 355 horsepower to a mind-boggling 604 horsepower and 738 pound-feet of torque.</p>
+							</div>
+							<div class="col-md-4 service-grid">
+							<img src="data:image/jpeg;base64,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" class="img-responsive" alt=""/>
+							<div class="col-md-4 service-grid">
+								<h4>Ferrari 488 GTB</h4>
+								<p>Ferrari model designation, with the 488 in its moniker indicating the engine’s unitary displacement, with the GTB standing for Gran Turismo Berlinetta. The turbocharged 3.9-litre V8 puts out a robust 670 horsepower at 8,000 rpm and a response time to the accelerator of just 0.8 seconds (at 2,000 rpm in third gear), thanks in part to work carried out on the turbine to reduce friction and inertia.</p>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+					</div>
+				</div>
+			<!--services-->
+				<!--features-->
+				<div class="feature">
+					<div class="container">
+						<h3>Features</h3>
+						<div class="feature-grids">
+							<div class="col-md-3 feature-grid">
+							<div class="feature-icon">
+								<span class="glyphicon glyphicon-wrench" aria-hidden="true"></span>
+								</div>
+								<h4>Gallary</h4>
+								<p>This has all cars on the site and more. PLEASE VIST</p>
+							</div>
+							<div class="col-md-3 feature-grid">
+							<div class="feature-icon">
+								<span class="glyphicon glyphicon-dashboard" aria-hidden="true"></span>
+								</div>
+								<h4>Speed</h4>
+								<p>This shows the speed of most cars on the site. PLEASE VIST</p>
+							</div>
+							<div class="col-md-3 feature-grid">
+							<div class="feature-icon">
+								<span class="glyphicon glyphicon-cog" aria-hidden="true"></span>
+								</div>
+								<h4>Engine</h4>
+								<p>This shows the fastest to slowest engines. PLEASE VIST</p>
+							</div>
+							<div class="col-md-3 feature-grid">
+							<div class="feature-icon">
+							<span class="glyphicon glyphicon-record" aria-hidden="true"></span>
+							</div>
+								<h4>Videos</h4>
+								<p>These are a few videos on cars. PLAESE LOOK AT</p>
+							</div>
+							<div class="clearfix"></div>
+						</div>
+					</div>
+				</div>
+			<!--features-->
+
+
+		<div class="specials-section">
+			<div class="container">
+				<div class="specials-grids">
+					<div class="col-md-3 specials">
+						<h3>Technology</h3>
+						<ul>
+							<li><a href="#">New Listing Sign-Up</a></li>
+							<li><a href="#">Consectetur adipiscing</a></li>
+							<li><a href="#">Integer molestie lorem</a></li>
+							<li><a href="#">Facilisis in pretium nisl</a></li>
+						</ul>
+					</div>
+					<div class="col-md-3 specials">
+						<h3>Product</h3>
+						<ul>
+							<li><a href="#">Integer molestie lorem</a></li>
+							<li><a href="#">Integer molestie lorem</a></li>
+							<li><a href="#">Consectetur adipiscing</a></li>
+							<li><a href="#">Lorem ipsum dolor sit</a></li>
+						</ul>
+					</div>
+					<div class="col-md-3 specials">
+						<h3>Social</h3>
+						<ul>
+							<li><a href="#">facebook</a></li>
+							<li><a href="#">twitter</a></li>
+							<li><a href="#">google+</a></li>
+							<li><a href="#">gmail</a></li>
+						</ul>
+					</div>
+					<div class="col-md-3 specials">
+						<h3>About</h3>
+						<p>Morbi pretium gravida justo nec ultrices. Ut et facilisis justo. Fusce ac turpis eros, vel molestie lectus.feugiat velit velit non turpis</p>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+	</div>
+			<!--footer-->
+			<div class="footer-section">
+				<div class="container">
+					<div class="footer-top">
+						<p>Copyright &copy; 2015 Super Bikes. All Rights Reserved | Design by<a href="http://w3layouts.com" target="target_blank">W3layouts</a></p>
+					</div>
+
+				</div>
+			</div>
+			<!--footer-->
+</body>
+</html>
